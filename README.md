@@ -8,14 +8,23 @@ O projeto implementa operações matemáticas básicas em JavaScript e testes au
 
 ## Estrutura do Projeto
 devops-math-operations/
+
 ├── src/
+
 │ └── math.js # Funções matemáticas
+
 ├── tests/ # Testes unitários
+
 │ └── math.test.js
+
 ├── .github/
+
 │ └── workflows/
+
 │ └── ci.yml # Configuração do GitHub Actions
+
 ├── package.json
+
 └── README.md
 
 
